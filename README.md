@@ -12,7 +12,7 @@ There are three Files.
   and is included in the main(MinesweeperGame.c)file.
   
 3)MinsweeperGame.c
-   This is th main file which contains the main function inside which the game flow has been 
+   This is th Game file which contains the main function inside which the game flow has been 
    described and all the function calls are made.
    
    
