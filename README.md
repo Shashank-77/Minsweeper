@@ -9,7 +9,7 @@ There are three Files.
   
 2)MinesweeperImpl.h
   This file contains all the functions definitions(Declared in MinesweeperProto.h).This is another header file 
-  and is include in the main(MinesweeperGame.c)file.
+  and is included in the main(MinesweeperGame.c)file.
   
 3)MinsweeperGame.c
    This is th main file which contains the main function inside which the game flow has been 
